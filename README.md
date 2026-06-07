@@ -1,3 +1,8 @@
+## Note on Proprietary Code
+
+All source code in this portfolio is a **reconstruction** for demonstration purposes. Actual production code from JPMorgan Chase and TCS is proprietary and confidential. The implementations here demonstrate the same technical patterns, algorithms, and architectural decisions described in the case studies using publicly available libraries and anonymized configurations.
+
+
 # COiN NLP Pipeline — JPMorgan Chase Contract Intelligence Expansion
 
 **Employer:** JPMorgan Chase | Compliance & Legal Technology  
